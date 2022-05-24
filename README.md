@@ -1,7 +1,7 @@
 <p align="left">
 hey~，我是科科人神，目前就职于国内一家互联网公司，你们可以加我<a href="./#wechat.png">微信</a>，交个朋友吧~
 </p>
-<a href="https://shgopher.github.io/GOFamily/">在线阅读</a>
+<a href="https://shgopher.github.io/god/">在线阅读</a>
 <br>
 <p align="center">
 <a href='./#wechat.png' target="_blank"><img src="https://img.shields.io/static/v1?label=%E7%A7%91%E7%A7%91%E4%BA%BA%E7%A5%9E&message=%E5%85%AC%E4%BC%97%E5%8F%B7&color="></a>
@@ -18,7 +18,7 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 
 - `好友`, 可以添加作者的微信好友
 
-![](./GOFamily.png)                             
+![](./god.png)                             
 ## 系列教程
 - [GOFamily](https://shgopher.github.io/GOFamily/) 一本为go后端程序员打造的教程
 - [408](https://shgopher.github.io/408/) 一本主要以408知识为主的基础课程
