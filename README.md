@@ -36,6 +36,7 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 - [上海](./公司推荐/上海)
 - [955公司](https://github.com/formulahendry/955.WLB)
 
+## 扫一扫添加我的公众号，回复 “加群”，可以加入微信群。
 <p id="wechat.png" align="center">
 <br>
 <br>
