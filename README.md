@@ -2,7 +2,7 @@
  * @Author: shgopher shgopher@gmail.com
  * @Date: 2023-01-06 20:01:53
  * @LastEditors: shgopher shgopher@gmail.com
- * @LastEditTime: 2023-01-06 20:48:45
+ * @LastEditTime: 2023-01-08 20:43:06
  * @FilePath: /god/README.md
  * @Description: 
  * 
@@ -32,7 +32,6 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 ## 赚钱
 - [李杰灵的创业之路](./%E8%B5%9A%E9%92%B1/创业经验/李杰灵.md)
 ## 面试
-- [优秀面试题总结](./面经/优秀的面试题总结.md)
 - [面经-阿里巴巴-后端-大获成功](./面经/阿里巴巴/面经一/READMD.md) 
 - [面试官自述-百度-后端](./面经/百度/面试官自述一/README.md)
 ## 管理
