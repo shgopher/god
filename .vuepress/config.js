@@ -101,17 +101,6 @@ module.exports = {
         text:'作者',link:'https://shgopher.github.io/',
       },
     ], 
-    sidebar:[
-      {
-        title: '面经',
-        collapsable: false,
-        children: [],
-      },
-      {
-        title: '公司推荐',
-        collapsable: false,
-        children: [],
-      },
-    ],
+    sidebar:'auto'
   },
 }
