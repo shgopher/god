@@ -7,3 +7,7 @@ go 高级软件开发工程师的技术要求：
 > https://duibiao.info/
 
 ![list](./list.png)
+
+![list1](./list1.png)
+![list2](./list2.png)
+![list3](./list3.png)
